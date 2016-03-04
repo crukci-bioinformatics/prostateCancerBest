@@ -1,6 +1,6 @@
  \docType{data}
-    \name{varambally}
-    \alias{varambally}
+    \name{best}
+    \alias{best}
     \title{The Best Cohort from Maryland}
     \format{a \code{ExpressionSet} instance, 1 row per Affymetrix microarray probe.}
     \source{
