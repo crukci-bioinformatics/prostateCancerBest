@@ -1,7 +1,7 @@
  \docType{data}
     \name{varambally}
     \alias{varambally}
-    \title{The Best Cohort from U. Michigan et al. (2005)}
+    \title{The Best Cohort from Maryland}
     \format{a \code{ExpressionSet} instance, 1 row per Affymetrix microarray probe.}
     \source{
       GSE3325

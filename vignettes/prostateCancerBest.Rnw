@@ -36,7 +36,7 @@ pd$Sample_Group <- gsub("AD","HormoneDependent" ,pd$Sample_Group)
 pData(geoData) <- pd
 
 best <- geoData
-save(best, file="data/best.rda")
+save(best, file="data/best.rda",compress="xz")
 @
 
 
